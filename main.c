@@ -70,8 +70,7 @@ ISR(TIMER0_COMPA_vect) {
     g_ms++;
 }
 
-static uint32_t mil
-lis_now(void) {
+static uint32_t millis_now(void) {
     uint32_t now;
     uint8_t sreg = SREG;
     cli();
