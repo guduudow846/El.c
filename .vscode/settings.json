@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\EL.c\\EL.c\\build",
+            "binaryPath": "c:\\EL.c\\EL.c\\build\\main.elf",
+            "binaryArgs": []
+        }
+    ]
+}
